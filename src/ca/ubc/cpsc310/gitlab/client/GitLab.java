@@ -1,5 +1,8 @@
 package ca.ubc.cpsc310.gitlab.client;
-
+/* 
+ * These are all the imported java classes
+ * 
+ */
 import java.util.ArrayList;
 import java.util.List;
 
