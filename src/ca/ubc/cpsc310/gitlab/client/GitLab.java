@@ -43,6 +43,8 @@ public class GitLab implements EntryPoint {
 	 * returns an error.
 	 */
 	int useless;
+	int lol;
+	
 	private static final String SERVER_ERROR = "An error occurred while "
 			+ "attempting to contact the server. Please check your network "
 			+ "connection and try again.";
